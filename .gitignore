@@ -1,0 +1,4 @@
+node_modules/
+persistencia/data/db.json
+persistencia/data/db.json.tmp
+.DS_Store
